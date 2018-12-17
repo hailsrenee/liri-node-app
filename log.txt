@@ -178,4 +178,51 @@ Name of the Venue: Bowery Ballroom
 Venue Location: New York
 Date of Event: 12/13/2018
 ------------------------------ end ------------------------------
+[object Object]------------------------------ begin ------------------------------
+Name of the Venue: Accorhotels Arena
+Venue Location: Paris
+Date of Event: 03/08/2019
+------------------------------ end ------------------------------
+[object Object]Artist: Britney Spears
+Song name: Oops!...I Did It Again
+Album Name: Oops!... I Did It Again
+Preview Link: https://p.scdn.co/mp3-preview/7fb86827422540ad01f65870375fef055412f034?cid=15690d7ca83a4f6093e3f9bc0b13aa2f
+[object Object]------------------------------ begin ------------------------------
+Title: Shimo Kitazawa Diehard
+Year: 2017
+Imdb Rating: 7.0
+Rotten Tomatoes Rating: N/A
+Country: Japan
+Language: Japanese
+Plot: A male bargoer and a bar hostess talk about that the story of the worst day in someone's life at Shimokitazawa, Tokyo.
+Actors: Arata Furuta, Eiko Koike
+------------------------------ end ------------------------------
+[object Object]Artist: Backstreet Boys
+Song name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=15690d7ca83a4f6093e3f9bc0b13aa2f
+[object Object]------------------------------ begin ------------------------------
+Title: Mr. Nobody
+Year: 2009
+Imdb Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+------------------------------ end ------------------------------
+[object Object]Artist: Harry Styles
+Song name: Sign of the Times
+Album Name: Harry Styles
+Preview Link: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=15690d7ca83a4f6093e3f9bc0b13aa2f
+[object Object]------------------------------ begin ------------------------------
+Title: Die
+Year: 2010
+Imdb Rating: 4.9
+Rotten Tomatoes Rating: N/A
+Country: Canada, Italy
+Language: English
+Plot: Six strangers wake up in cells in an underground facility. Their captive decides their fate with the roll of a die.
+Actors: John Pyper-Ferguson, Emily Hampshire, Caterina Murino, Elias Koteas
+------------------------------ end ------------------------------
 [object Object]
