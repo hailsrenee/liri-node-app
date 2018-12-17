@@ -58,4 +58,4 @@ Retrieves random text from a file and does what it says:
 
 `node liri.js do-what-it-says`
 
-![Screenshot] (assets/Screenshot.png)
+![Screenshot](assets/Screenshot.png)
