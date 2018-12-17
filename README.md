@@ -2,59 +2,60 @@
 
 Liri is a Launguage Interpretation and Recognition Interface. Use LIRI to search Spotify for songs, Bands in Town for concerts, and OMDB for movies. 
 
-# Installs
+## Installs
 
-The package.json lists dependent node packages, but for your convenience, these are the ones to install.
+The [package.json] (https://github.com/hailsrenee/liri-node-app/blob/master/package.json) lists dependent node packages, but for your convenience, these are the ones to install.
 
-#Spotify
+### Spotify
 
-npm install node-spotify-api
+`npm install node-spotify-api`
 
-#Axios 
+### Axios 
 
-npm install axios
+`npm install axios`
 
-# Bands In Town 
+### Bands In Town 
 
-npm install bandsintown-api
+`npm install bandsintown-api`
 
-# Moment
+### Moment
 
-npm install momemt
+`npm install momemt`
 
-# DotEnv 
+### DotEnv 
 
-npm install dotenv
+`npm install dotenv`
 
-# FS 
+### FS 
 
-npm install fs
+`npm install fs`
 
-#Get Started 
+## Get Started 
 
 Here's a list of commands you can use in LIRI:
 
-# Get Song Info
+### Get Song Info
 
 Retrieves info for a song: 
 
-node liri.js spotify-this-song "Song Name"
+`node liri.js spotify-this-song "Song Name"`
 
-# Get Concert Info
+### Get Concert Info
 
 Retrieves info about concerts for an artist:
 
-node liri.js concert-this "Artist's Name"
+`node liri.js concert-this "Artist's Name"`
 
-# Get Movie Info
+### Get Movie Info
 
 Retrieves movie info:
 
-node liri.js movie-this "Movie Name"
+`node liri.js movie-this "Movie Name"`
 
-# Get Random Info
+### Get Random Info
 
 Retrieves random text from a file and does what it says:
 
-node liri.js do-what-it-says
+`node liri.js do-what-it-says`
 
+![Screenshot] (assets/Screenshot.png)
